@@ -1,0 +1,9 @@
+	
+
+
+torch
+ torchvision
+ torchaudio
+torchsummary
+kaggle
+pandas
